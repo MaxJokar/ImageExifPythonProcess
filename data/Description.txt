@@ -1,0 +1,23 @@
+Geospatial representation drone camera coordinates with Python ,ExIF , Folium 
+
+
+If you have a set of drone imagery and you want to know the location and direction of the camera,
+We have done an applied example that retrieves the geospatial metadata .from the drone camera for a group
+of images and makes a geostapatial repretacion on a map with the image name 
+available as popup. These codes are  done under a Jupyter notebook with image EXIF metadata using Python .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
